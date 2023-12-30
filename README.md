@@ -29,6 +29,6 @@ Duolingo staff, if you have problems with this repository, please contact me at 
 <p align="center">
 This system is provided as-is and is not affiliate with Duolingo in any way. While Duolingo does not explicitly forbid the use of third-party tools or services, it may take action against users who engage in activities that it deems to be in violation of its terms of service, including the use of such tools or services.<br><br>
 By using this system, you acknowledge that there is a possibility that Duolingo may take action against you if it determines that your use of this system violates its terms of service. You agree to assume all risks associated with using this system, including the possibility of a ban from Duolingo.<br><br>
-I do not guarantee that this system will work for everyone or that it will not result in a ban. **I am not liable for any damages or losses that may result from using this system.**<br><br><br>
+I do not guarantee that this system will work for everyone or that it will not result in a ban. <b>I am not liable for any damages or losses that may result from using this system.</b><br><br><br>
 Use this system at your own risk.
 </p>
