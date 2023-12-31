@@ -9,7 +9,7 @@ Without the browser extension, Autolingo will only print out the correct answers
 
 If you have any ideas or suggestions for this project, feel free to create an issue or pull request!
 
-Also if anyone from my league on Duolingo or someone on the staff team sees this, I want to clarify that I have not and am not planning to use this on my personal Duolingo account. I made a secondary account with the intention of testing this out. That account also can't get into leaderboards at this moment, so no harm no foul.
+Also if anyone from my league on Duolingo or someone on the staff team sees this, I want to clarify that I have not and am not planning to use this on my personal Duolingo account. I made a secondary account with the intention of testing this out. That account is not able to get into leaderboards due to me not completing enough lessons to get into, and if I have to cross that threshold, I will make another account, so no harm no foul.
 
 Duolingo staff, if you have problems with this repository, please contact me at <a href="me@inimicalpart.com">me@inimicalpart.com</a> before sending me a cease and desist letter.
 
